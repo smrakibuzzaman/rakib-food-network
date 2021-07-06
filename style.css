@@ -1,13 +1,14 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
+    color: gray;
 }
 p{
     font-size: large;
     font-weight: 400;
 }
 h1{
-    font-size: 30px;
+    font-size: 50px;
 }
 
 div {
@@ -42,6 +43,42 @@ div {
     text-align: center;
 }
 
-#align{
+
+#banner2{
+   width: 150%;
+}
+.text-align{
+    padding-top: 25%;
+}
+.receipe-pics{
+    width: 80%;
+    border-radius: 10px;
+}
+.receipe-border{
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 40px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 30px;
+    text-align: center;
+
+}
+
+.subscription{
+    width: 50%;
+    margin-left: 10%;
+    margin-right: 5%;
+    padding-top: 5%;
+    padding-left: 30%;
+    padding-bottom: 5%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 30px;
+}
+
+footer{
     text-align: center;
 }
